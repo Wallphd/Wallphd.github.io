@@ -5,7 +5,7 @@ Hello大家好，本期**好用的梯子**测评推荐的主角是墙博士（wa
 
 官网地址：[点击访问官网注册](https://www.wallphd.com/register)
 
-![image](https://3o.hk/images/2021/09/17/1.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/1.png)
 
 之所以测评这款梯子，是因为之前在找**最好用的mac端Trojan客户端**时候遇到了它。此前因为旧版的Trojan客户端会有断流情况，因此没有太多关注，最近这个梯子更新了最新版本的客户端，断流情况不见了，所以做了这次评测。此次测评中这个梯子的整体表现都还不错，符合**稳定好用**的评价。
 
@@ -17,7 +17,7 @@ Hello大家好，本期**好用的梯子**测评推荐的主角是墙博士（wa
 
 ## 一、wallphd梯子的优惠活动,官网地址：https://www.wallphd.com/register?aff=2
 这款梯子目前有个活动，就是推广给十个用户注册并激活，推荐者可以获得免费赠送的价值188的年费套餐，推广方式是让用户注册时候，在邀请者者一栏填写你的注册邮箱账号即可。如下图：
-![image](https://3o.hk/images/2021/09/17/2.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/2.png)
 
 ## 二、这款梯子是否好用问题上总结出的一些优势
 
@@ -29,43 +29,45 @@ Hello大家好，本期**好用的梯子**测评推荐的主角是墙博士（wa
 ### 2、服务时间长
 之前我推荐机场服务商都是在自己亲身使用体验一个月以上才做测评，而这次针对墙博士只试用了十几天，原因是在网上找了一些信息之后，发现这款梯子是在15年底就开始提供服务了，我相信经历了五年的洗礼还能坚持下来，就证明它是比较有优势的，至少还比较好用。而且后台还支持三天免费试用，如下图：
 
-![image](https://3o.hk/images/2021/09/17/1.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/1.png)
 
 所以这次用了十几天就做出了本期测评，很大程度就是因为有三天的免费试用加上五年的提供服务时长，能帮助大家避过绝大多数的坑。
 
 ### 3、wallphd梯子的价格
-![image](https://3o.hk/images/2021/09/17/8.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/8.png)
 
 可以看到后台套餐有年费和包月的区别，年费是188包含365天的使用时长和各类原生，高速，中专，商务，游戏，IPLC，IEPL的节点，包月是25包含30天的使用时长，要注意的是包月套餐是不支持流媒体的，大家如果看奈飞的话就不要用包月的。
 
 
 ## 三、推广活动
 注册后新用户有做任务获得时长的服务：
-![image](https://3o.hk/images/2021/09/17/3.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/3.png)
 这是后台提供的免费获得时长的任务工具，说实话就是一个为了推广的活动，如果你身边刚好有朋友也需要梯子，不妨可以做下这几个任务，如果没有倒不必强行去做。
 
 ## 四、稳定好用的梯子加速器节点
 点开后台主页会有节点列表界面，可以看到后台是支持v2ray以及trojan的：
 
-![image](https://3o.hk/images/2021/09/17/4.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/4.png)
 
 点开Trojan节点，能够看到支持二维码扫描以及支持手动输入：
 
-![image](https://3o.hk/images/2021/09/17/5.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/5.png)
 
 后台节点排在前面的是流媒体和高速两种，大概占了四十多条，我挑了几条试了下，基本速度都还ok，也就是能够秒开1080p。如果本地宽带在100M以上，我相信开4K也是没有什么问题的。选节点一般建议选择日本，香港等离你比较近的节点，延迟低。
 
 ## 五、梯子支持的客户端，电脑-ios-安卓-mac-Linux等
 点开后台客户端下载，可以看到支持的客户端列表，确实非常详细：
-![image](https://3o.hk/images/2021/09/17/6.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/6.png)
 
 每个客户端教程下都配备了图文，可以说是图文并茂，非常贴心，拿macos端举例：
 
-![image](https://3o.hk/images/2021/09/17/5.png)
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/5.png)
 
 基本上跟着这个图文来，都能很快安装完毕。
 别的不说，在教程这块儿，确实墙博士做的比我测评过的其他梯子都要完善。
 而且点开ios端，他们还提供专门的apple ID，方便用户下载相应的app。
+
+![image](https://raw.githubusercontent.com/Wallphd/Wallphd.github.io/main/images/2.png)
 
 ## 六、速度评测-一个决定梯子是否好用的重要参数
 因为我测速是分为不同时段的，所以视频日期可能会不一致，在这里我把测速的视频当中截图一部分放上来。
